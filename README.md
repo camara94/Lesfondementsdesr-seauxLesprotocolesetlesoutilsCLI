@@ -1,1 +1,3 @@
-"# Lesfondementsdesr-seauxLesprotocolesetlesoutilsCLI" 
+# Les fondements des réseaux Les protocoles et les outils CLI
+
+Si vous travaillez dans l'administration informatique, suivez cette formation sur les réseaux et les protocoles associés. Avec Pierre Cabantous, vous aborderez les protocoles les plus courants, comme TCP/IP, HTTP, DNS, SMTP et bien d'autres encore. Vous utiliserez également les outils de gestion en ligne de commande ou à interface graphique. Au terme de cette formation, vous disposerez d'une bonne base technique sur les protocoles réseau.
